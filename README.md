@@ -1,1 +1,2 @@
-# DL-App
+Currently the app is under development.
+Will be shared soon...
